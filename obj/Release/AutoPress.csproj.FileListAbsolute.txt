@@ -1,9 +1,0 @@
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\bin\Release\AutoPress.exe.config
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\bin\Release\AutoPress.exe
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\bin\Release\AutoPress.pdb
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\obj\Release\AutoPress.csprojResolveAssemblyReference.cache
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\obj\Release\AutoPress.Form1.resources
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\obj\Release\AutoPress.Properties.Resources.resources
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\obj\Release\AutoPress.csproj.GenerateResource.Cache
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\obj\Release\AutoPress.exe
-C:\Users\Evenflow\Dropbox\#Software Dev#\C#\AutoPress\AutoPress\obj\Release\AutoPress.pdb
